@@ -31,7 +31,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://nmelissarp.github.io/todos-machine/",
+  "homepage": "https://nmelissarp.github.io/todos-machine",
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
